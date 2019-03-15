@@ -1,0 +1,25 @@
+{
+  "name": "reactive-properties",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "babel-node index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igmat/reactive-properties.git"
+  },
+  "author": "Ihor Chulinda <ichulinda@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Igmat/reactive-properties/issues"
+  },
+  "homepage": "https://github.com/Igmat/reactive-properties#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/node": "^7.2.2",
+    "@babel/plugin-proposal-class-properties": "^7.3.4",
+    "@babel/preset-env": "^7.3.4"
+  }
+}
